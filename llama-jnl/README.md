@@ -11,16 +11,6 @@ git clone https://github.com/meta-llama/llama.git
 ```
 
 
-## model downloader:
-
-+ [model_downloader](./llm-run/test.py)
-```py
-from llm_run import md_downloader
-
-
-md_downloader.install("mlx-community/Llama-2-7b-chat-4-bit")
-```
-
 
 ## llama.cpp :
 
