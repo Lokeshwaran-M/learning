@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# models
+.pth
+
+
+## llama-git
+/llama-git
+/llama-2-7b
+/llama-2-7b-chat
